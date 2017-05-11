@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++14      CMakeFiles/main_test.out.dir/src/TU/main_test.cpp.o CMakeFiles/main_test.out.dir/src/TU/chifoumi_test.cpp.o  -o main_test.out -rdynamic -lglog -lstdc++ -lCppUTest -lCppUTestExt 

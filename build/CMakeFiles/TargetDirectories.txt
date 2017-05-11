@@ -1,0 +1,3 @@
+/etudiants/asegard/GL/Projet/build/CMakeFiles/chifoumi.out.dir
+/etudiants/asegard/GL/Projet/build/CMakeFiles/doc.dir
+/etudiants/asegard/GL/Projet/build/CMakeFiles/main_test.out.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/asegard/GL/Projet/src/TU/chifoumi_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+../chifoumi.hpp
+/etudiants/asegard/GL/Projet/src/chifoumi.hpp
+sstream
+-
+
+/etudiants/asegard/GL/Projet/src/TU/main_test.cpp
+CppUTest/CommandLineTestRunner.h
+-
+
+/etudiants/asegard/GL/Projet/src/chifoumi.hpp
+
