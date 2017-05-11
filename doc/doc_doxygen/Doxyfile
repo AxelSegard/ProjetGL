@@ -1,0 +1,5 @@
+PROJECT_NAME           = Chifoumi
+OUTPUT_DIRECTORY       = /etudiants/asegard/GL/Projet/doc/doc_doxygen/
+INPUT                  = /etudiants/asegard/GL/Projet/src/
+EXTRACT_ALL            = YES
+RECURSIVE              = YES
