@@ -1,0 +1,6 @@
+#include "plot.hpp"
+#include <iostream>
+
+Plot::Plot(){}
+Plot::update();
+Plot::todoPlot();

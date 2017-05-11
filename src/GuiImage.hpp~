@@ -1,0 +1,15 @@
+#ifndef GUI_IMAGE_HPP_
+#define GUI_IMAGE_HPP_
+
+#include "plot.hpp"
+
+class GuiImage
+{
+public :
+  // GuiImage();
+
+private :
+  Plot* _plot; 
+};
+
+#endif

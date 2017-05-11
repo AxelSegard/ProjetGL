@@ -1,0 +1,10 @@
+#ifndef PLOT_HPP
+#define PLOT_HPP
+
+class Plot
+{
+public :
+  virtual plot() = 0;
+}
+
+#endif;

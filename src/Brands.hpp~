@@ -1,0 +1,11 @@
+#ifndef BRANDS_HPP_
+#define BRANDS_HPP_
+#include "plot.hpp"
+
+class Brands : public Plot
+{
+public :
+  Brands();
+};
+
+#endif

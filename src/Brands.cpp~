@@ -1,0 +1,4 @@
+#include "Brands.hpp"
+#include <iostream>
+
+Brands::Brands(){}

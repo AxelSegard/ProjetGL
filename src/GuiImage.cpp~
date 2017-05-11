@@ -1,0 +1,4 @@
+#include "GuiImage.hpp"
+#include <iostream>
+
+GuiImage::GuiImage(){}
